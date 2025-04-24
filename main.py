@@ -13,7 +13,7 @@ from dotenv import load_dotenv
 load_dotenv()
 
 # os.environ["GOOGLE_API_KEY"] = os.getenv("GOOGLE_API_KEY"); 
-os.environ["GOOGLE_API_KEY"] = "AIzaSyA4KIEI51FKjdZ_Ky-vTNX797ihfzhtkmM"
+os.environ["GOOGLE_API_KEY"] = "TODO"
 
 app = Flask(__name__)
 
